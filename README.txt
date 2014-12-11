@@ -1,0 +1,1 @@
+File compression by Hierarchical Huffman encoding using Python which results in text file compression ratio of around 80% with high throughput due to piping. 
